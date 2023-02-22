@@ -1,3 +1,5 @@
+package ru.netology.javaqa.schedule.services;
+
 public class ScheduleService {
     public int calculate(int income, int expenses, int threshold) {
         int count = 0; // счётчик месяцев отдыха
